@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shivam-sonkerr, currently working in Saviynt.
 - 👀 I’m interested in DevOps and its methodology.
-- I have 2 years+ experience overall.
+- Creating a production grade URL Shortener using AWS EKS,TF and K8s with Golang as the language.
 - Please check my repo named "DevOps" to see what all I am learning these days.
 - 🌱 I’m currently learning - Terraform,Kubernetes,Python and Golang.
 - 💞️ I’m looking to collaborate on anything on DevOps side
