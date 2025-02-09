@@ -12,7 +12,7 @@
 📖 Currently upskilling in **Terraform, Kubernetes, Golang, and Python** to enhance my cloud automation expertise.  
 
 🔹 **Let’s Connect!**  
-📫 Reach me on **[LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/shivam-sonker/))** | 📧 [Your Email]  shivam87380@gmail.com
+📫 Reach me on **[LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/shivam-sonker/))** | 📧  shivam87380@gmail.com
 
 ---
 
