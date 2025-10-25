@@ -1,18 +1,14 @@
-# 🚀 DevOps Enthusiast | Cloud | Automation | Kubernetes Python
-👋 Hi, I'm Shivam – a passionate **DevOps Engineer** dedicated to building scalable, automated, and cloud-native solutions.  
+# DevOps  | Cloud | Automation | Kubernetes Python
+👋 Hi, I'm Shivam – a **DevOps Engineer** dedicated to building scalable, automated, and cloud-native solutions.  
 
 🔹 **About Me:**  
-💡  I specialize in **Kubernetes,Terraform, AWS and Python** to create production-ready infrastructure and applications.  
-
-🔹 **What I’ve Built:**  
-🚀 **[URL Shortener (Production-Grade)]([https://github.com/your-repo-link](https://github.com/shivam-sonkerr/url_shortener))** – Built a scalable URL shortener with **AWS EKS, Terraform, Kubernetes, and Golang**, designed for high availability.  
+💡  I specialize in **Kubernetes,Terraform, AWS and Python** to create production-ready infrastructure and applications.   
 
 🔹 **What I’m Learning:**  
-📖 Currently upskilling in **Terraform, Kubernetes, Golang, and Python** to enhance my cloud automation expertise.  
+📖 Currently upskilling in **Terraform, Kubernetes,and Python** to enhance my cloud automation expertise.  
 
 🔹 **Let’s Connect!**  
 📫 Reach me on https://www.linkedin.com/in/shivam-sonker/ | 📧  shivam87380@gmail.com
 
 ---
 
-🔥 Check out my [DevOps Repository](https://github.com/shivam-sonkerr/url_shortener) to explore my hands-on projects!  
